@@ -1,0 +1,121 @@
+.container{
+    width: 100%;
+    height: 1200px;
+    background-color: #fff;
+}
+body{
+    margin: 0;
+    padding: 0%;
+}
+.header{
+    width: 100%;
+    height: 580px;
+    background-color: brown;
+    background-image: url(background.jpg);
+    text-align: center;
+    padding: 20px;
+    background-size: contain;
+}
+.name{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #fff;
+    margin-top: 200px;
+    font-style: italic;
+}
+.find{
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+}
+.login{
+    text-align: start;
+    color: #fff;
+    text-align: inherit;
+}
+.body{
+    width: 100%;
+    height: 350px;
+    background-color: #fff;
+    border-style: dashed;
+}
+.popular{
+    font-size: 45px;
+    color: black;
+    text-align: center;
+}
+.des{
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+}
+.footer{
+    width: 100%;
+    height: 250px;
+    background-color: #fff;
+
+}
+.detailing{
+    width: 25%;
+    height: 250px;
+    background-color: #fff;
+    float: left;
+}
+.zomato{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+    margin-left: 20px;
+}
+.about{
+    margin-left: 30px;
+font-size: 15px;
+font-weight: bold;
+}
+.details{
+    margin-left: 35px;
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+}
+.zoma{
+    width: 25%;
+    height: 250px;
+    float: right;
+    background-color: #fff;
+    text-align: center;
+
+
+}
+.zomaverse{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 100px;
+    
+}
+.zom{
+    font-size: 15px;
+    font-weight: bold;
+    color: grey;
+    margin-left: 20px;
+
+}
+.last{
+    width: 50%;
+    height: 250px;
+    background-color: #fff;
+    float: left;
+    text-align: center;
+}
+.learn{
+    font-size: 20px;
+    font-weight: 20px;
+    margin-top: 100px;
+}
+.privacy{
+    font-size: 15px;
+    color: grey;
+    font-weight: bold;
+}
